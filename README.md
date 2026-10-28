@@ -1,17 +1,23 @@
 # Clockworks
 
-## About this project
+A web project built while coding along with the Udemy "Complete 2020 Web Developer Master Course".
 
-### Related course
-UDEMY | THE COMPLETE 2020 WEB DEVELOPER MASTER COURSE
+## About The Project
 
-### Details | Comments
 This project was made coding along while following a course on Udemy.
 
-### CodePen:
-You can find this project on CodePen.  
-URL: https://codepen.io/Dyrits/full/abOxXom
+### Built With
 
-### Status
-Finished
+- JavaScript
 
+## Demonstration
+
+[CodePen](https://codepen.io/Dyrits/full/abOxXom)
+
+## Status
+
+Finished.
+
+## License
+
+No license file is present.
